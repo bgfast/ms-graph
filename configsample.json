@@ -1,0 +1,8 @@
+{
+  "groupID": "UPDATE groupID UPDATE",
+  "clientKey": "UPDATE clientKey UPDATE",
+  "applicationID": "UPDATE applicationID UPDATE",
+  "baseUrl": "https://graph.microsoft.com/v1.0",
+  "baseUrl_beta": "https://graph.microsoft.com/beta",
+  "teamID": "UPDATE teamID UPDATE"
+}
